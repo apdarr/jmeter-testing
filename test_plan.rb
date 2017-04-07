@@ -1,4 +1,5 @@
 require 'ruby-jmeter'
+# Targeting seperate Heroku app
 
 test do
     threads count: 10 do
